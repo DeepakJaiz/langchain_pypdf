@@ -9,7 +9,7 @@ https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples
 ### Prerequists
 You required Phython in your system fyou can follow this (https://www.python.org)<br/>
 OpenAi API key required to get you can follow this link (https://platform.openai.com/account/api-keys)<br/>
-Install VS Code to run the code<br/>
+Install Jupyter notebook to run the code<br/>
 
 ### Modules required
 `pip install langchain`<br/>
