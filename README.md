@@ -16,6 +16,7 @@ Install VS Code to run the code<br/>
 `pip install pypdf`<br/>
 `pip install pypdfium2`<br/>
 `pip install pdfplumber`<br/>
+`pip install faiss-cpu`<br/>
 
 ### How to run
 Open the above file in jupyter notebook then run each cell from top to bottom one by one.
